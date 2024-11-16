@@ -3,9 +3,6 @@ int main()
    {
     int A;
     int B;
-
-
-      
     scanf("%d",& A);
     scanf("%d",& B);
     printf("SOMA=%d",A+B);
